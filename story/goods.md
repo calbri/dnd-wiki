@@ -13,4 +13,4 @@ Upon entering [Phandalin](locations/phandalin.md), the party decided to first de
 
 The party gathered some provisions and set off back towards the dead horses, intent on rescuing [Gundren](characters/gundren.md) from the clutches of the goblins.
 
-*Next*: [The Goblin Cave](story/goblincave.md)
+*Next*: [The Goblin Cave](goblincave.md)
