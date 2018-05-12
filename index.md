@@ -5,7 +5,7 @@ The Story So Far
 ----------
 
 * [Delivering the Goods](story/goods.md)
-* [The Goblin Cave]()
+* [The Goblin Cave](story/goblincave.md)
 * [Assault on the Redbrands]()
 
 The Heroes
