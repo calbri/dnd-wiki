@@ -31,5 +31,5 @@ Deciding to make a bit of extra coin, the party stopped at the **Lionshield Cost
 
 The party set out back to the cave, and despite the constant feeling of being watched, returned the crates uneventfully. However, when departing from [Phandalin](locations/phandalin.md), the group was hassled by some [Redbrands](../factions/redbrands.md). It was decided that before any new leads could be followed, this source of unrest within the town should be dealt with once and for all.
 
-*Previous:* [Delivering the Goods](goods.md)\
+*Previous:* [Delivering the Goods](goods.md)
 *Next:* [Assault on the Redbrands](assault.md)
