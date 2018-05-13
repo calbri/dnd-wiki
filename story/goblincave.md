@@ -29,6 +29,7 @@ The rescued human revealed himself to be [Sildar](characters/sildar.md), who was
 
 Deciding to make a bit of extra coin, the party stopped at the **Lionshield Coster**. After a bit of awkward negotiation, the company offered to pay them to return the crates they had found. They also provided a mule and cart to carry these goods. Using their skills to speak to this mule, they learned of its sadness and wish to start a family.
 
-The party set out back to the cave, and despite the constant feeling of being watched, returned the crates uneventfully.
+The party set out back to the cave, and despite the constant feeling of being watched, returned the crates uneventfully. However, when departing from [Phandalin](locations/phandalin.md), the group was hassled by some [Redbrands](../factions/redbrands.md). It was decided that before any new leads could be followed, this source of unrest within the town should be dealt with once and for all.
 
-*Next:* [Assault on the Redbrands]()
+*Previous:* [Delivering the Goods](goods.md)\
+*Next:* [Assault on the Redbrands](assault.md)
